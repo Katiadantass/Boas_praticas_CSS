@@ -18,4 +18,4 @@ Realize testes após cada alteração efetuada. A entrega do exercício deve gar
 
 **Importante:**  
 
-Em caso de dúvidas durante o processo, os tutores estão à disposição para oferecer suporte. Não hesite em entrar em contato enviando uma mensagem!
+Em caso de dúvidas durante o processo, os tutores estão à disposição para oferecer suporte. Não hesite em entrar em contato enviando uma mensagem.
